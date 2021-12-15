@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Secrets inside Clinton's emails
+title: Brexit
 ---
 
 {% include_relative _includes/styles.html %}
