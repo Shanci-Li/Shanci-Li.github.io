@@ -5,14 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: Page
+Title: Brexit
 ---
 
 ## Quotations Behind the Brexit
-
-You can use the [editor on GitHub](https://github.com/Lydia-z/ada_data_story/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Background
 
@@ -79,3 +76,4 @@ Now we are going to analyze the gender of speakers talking about the Brexit
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
 ![Occupations](/imgs/Occupations.PNG)
 
+{% include pie.html %}
