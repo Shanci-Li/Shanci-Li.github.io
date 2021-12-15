@@ -1,0 +1,78 @@
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.18/c3.min.js"></script>
+<script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) {slideIndex = 1}    
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";  
+      }
+      x[slideIndex-1].style.display = "block";  
+    }
+
+    function changeContactPeople(people){
+
+      var description1 = "<b>Huma Abedin</b> : the most frequent sender.<br><br>   -<i><b>Vice chair of Hillary Clinton's 2016 campaign</b> for President of the United States.</i><br>  -<i><b>Deputy chief of staff to Clinton</b>, who was U.S. Secretary of State from 2009 to 2013.</i><br>  -<i><b>Traveling chief of staff and former assistant for Clinton</b> during Clinton's campaign for the Democratic nomination in the 2008 presidential election.</i><br><br><i>An interesting observation: She receives the most emails FROM Hillary, but is only the 8-th sender of emails TO Hillary. We guess that she excutes more Hillary's order than make reports.</i><br>She is clearly the right-hand woman of Hillary Clinton."
+      var description2 = "<b>Cheryl Mills</b> : the 2nd most frequent sender and the most frequent receiver.<br><br> - <i><b>Counselor and Chief of Staff to Hillary Clinton</b> during her whole tenure as United States Secretary of State</i>. <br> - <i><b>Senior Adviser and Counsel for Hillary Clinton's 2008 presidential campaign</b>, and is considered a member of Hillary Clinton's group of <b>core advisers</b>, self-designated as 'Hillaryland'.</i><br> - <i><b>Deputy White House Counsel for President Bill Clinton</b>, whom she defended during his 1999 impeachment trial.</i><br><br>Another right-hand woman of Hillary Clinton. From the last point we can also see that she is loyal to the Clinton family."
+      var description3 = "<b>Jacob Jeremiah Sullivan (Jake Sullivan)</b> : the 3rd most frequent sender and the 14-th most frequent receiver.<br><br> - <i>American policymaker, <b>senior policy advisor to Hillary Clinton</b>'s 2016 U.S. presidential election campaign, with expertise in foreign policy.</i> <br> - <i><b>Deputy Chief of Staff to U.S. Secretary of State Hillary Clinton</b>.</i> <br> -<i><b>Deputy policy director on Hillary Clinton</b>'s 2008 presidential primary campaign.</i><br>"
+      var description4 = "<b>Sidney Blumenthal</b> : the 4-th most frequent sender and the 7-th most frequent receiver.<br><br>- <i><b>Journalist, activist</b>, writer, and political aide.</i> <br> - <i>Former aide to President Bill Clinton.</i> <br> - <i>A long-time <b>confidant of Hillary Clinton</b>.</i> <br> - <i>Formerly employed by the <b>Clinton Foundation</b>.</i><br>"
+
+      if(people=="Huma Abedin"){
+        document.getElementById("description").innerHTML = description1;
+      }else if(people=="Cheryl Mills"){
+        document.getElementById("description").innerHTML = description2;
+      }else if(people=="Jacob Jeremiah Sullivan"){
+        document.getElementById("description").innerHTML = description3;
+      }else {
+        document.getElementById("description").innerHTML = description4;
+      }
+    }
+
+    function changeTableContentQ2(artist_name){
+
+    var tb2 = document.getElementById("tableQ2");   // Get the <ul> element with id="myList"
+    tb2.removeChild(tb2.childNodes[0]);      
+
+    if(artist_name=="Ed_Sheeran"){
+      img_file = artist_name + ".jpg";
+    } else {
+      img_file = artist_name + ".png";
+    }
+
+    img        = document.createElement("img");
+    img.src    = "{{ "/project/web/img/" | relative_url }}"+img_file;
+    img.width  = 180;
+    img.height = 240;
+    img.alt    = artist_name;
+
+    var pictQ2 = document.getElementById("pictQ2");   // Get the <ul> element with id="myList"
+    pictQ2.removeChild(pictQ2.childNodes[0]);  
+    pictQ2.appendChild(img);
+
+    d3.text("{{ "/project/web/data/" | relative_url }}"+artist_name+".csv", function(data) {
+      var parsedCSV = d3.csv.parseRows(data);
+
+        var container = d3.select("#tableQ2")
+            .append("table")
+
+            .selectAll("tr")
+                .data(parsedCSV).enter()
+                .append("tr")
+
+            .selectAll("td")
+                .data(function(d) { return d; }).enter()
+                .append("td")
+                .text(function(d) { return d; });
+    });
+
+    }
+</script>
