@@ -20,7 +20,7 @@ In our project, we would like to dive into quotations talking about the Brexit a
 ### Speakers Talking about the Brexit Most Frequently
 
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
-![Speaker](/imgs/Speaker.PNG)
+
 
 Hereafter we focus on the four most frequent speakers, highlighting their positions and relations with Brexit.
 
@@ -62,18 +62,18 @@ Jeremy Corbyn was accused by the press of performing a ‘flip-flop’ over Brex
 ### Nationalities of Speakers Talking about the Brexit Belongs to 
 
 It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit. 
-![Nationality](/imgs/Nationality.PNG)
+
 
 After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
 
 ### Distribution of the Gender of the Speakers Talking about the Brexit
 
 Now we are going to analyze the gender of speakers talking about the Brexit
-![Gender](/imgs/Gender.PNG)
+
 
 ### Occupations of Speakers Talking about the Brexit Belongs to 
 
 Let's first have a look at who are the speakers talking about the Brexit most frequently.
-![Occupations](/imgs/Occupations.PNG)
+
 
 {% include_relative _includes/pie.html %}
