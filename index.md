@@ -9,7 +9,7 @@ title: Secrets inside Clinton's emails
 <!--COVER-->
 <img src="/img/cover.jpg" class="img-centered" style="width:100%; height=100%;">
 
-> By Junze Li, Yusi Zou, Zhantao Deng
+> By Kang Fu, Wanting Li, Shanci Li, Runke Zhou
 
 <!--CHAPTER: BACKGROUD-->
 <div align="center">
@@ -17,11 +17,10 @@ title: Secrets inside Clinton's emails
 </div>
 
 <div align="justify">
-<p>In 2015, Hillary Clinton was embroiled in controversy over the use of personal email accounts on non-government servers during her time as the United States Secretary of State. Over 2000 confidential emails were leaked, some of them are even classified as “Top Secret”. </p>
+<p> Brexit (a portmanteau of "British exit") was the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET). The UK is the first and so far the only member state to have left the EU, after 47 years of having been a part of the union — the EU and its predecessor the European Communities (EC), which included the European Economic Community — since 1 January 1973. Actually, the United Kindom was considering about exiting the EU ever since 2016. After several referendums and negotiations between UK-EU, they finally exit the EU in early January, 2020. And the withdrawl aggrement finally came into force on 31 January 2020. </p>
 
-<p>We will look at the politic, security and economic aspects through the 7945 leaked emails redacted and published by the State Department and cleaned by <a href="https://www.kaggle.com/kaggle/hillary-clinton-emails">Kaggle</a>. We will also analyze the personal social network of Hillary Clinton and the top topics they discussed.</p>
+<p>In our project, we would like to dive into quotations talking about the Brexit and analyze information behind these quotations to learn about people's attitude through the whole event.</p>
 
-<p>As a superpower, the United States has a great impact on the world’s stability, and their position and attitude will strongly influence the international affairs. We want to figure out the countries mainly mentioned, the problems concerned and conclude the impact they made on the international affairs throughout the analysis of these emails.</p>
 </div>
 &nbsp;
 
@@ -30,12 +29,12 @@ title: Secrets inside Clinton's emails
 &nbsp;
 
 <div align="center">
-<font size="+1"><h1><b>Who is she talking to?</b></h1></font>
+<font size="+1"><h1><b>Speakers Talking about the Brexit Most Frequently</b></h1></font>
 </div>
 
 
 <div align="justify"><p>
-	Let's first have a look at to whom does Hillary communicate most in both directions.
+	Let's first have a look at who are the speakers talking about the Brexit most frequently.
 </p></div>
 
 <div align="center">
@@ -53,19 +52,50 @@ title: Secrets inside Clinton's emails
 
 
 <div align="center">
-	<font size="+1">Senders of emails received by Hillary</font>
+	<font size="+1">Nationalities of Speakers Talking about the Brexit Belongs to</font>
 </div>
-
+<div align="justify"><p>
+	It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
+</p></div>
+<div align="justify"><p>
+	After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
+</p></div>
 <!--PIE SENDERS-->
 <div id="pie4"></div>
 {% include_relative _includes/pie4.html %}
 
-<div align="justify">
-Again, 5 people write 83% of emails that are written to Hillary! However, the important people change. We highlight those people and have a glance at their position.
-</div>
 
 &nbsp;
 
+<div align="center">
+	<font size="+1">Distribution of the Gender of the Speakers Talking about the Brexit</font>
+</div>
+<div align="justify"><p>
+	Now we are going to analyze the gender of speakers talking about the Brexit
+</p></div>
+<div align="justify"><p>
+	
+<!--PIE SENDERS-->
+<div id="pie4"></div>
+{% include_relative _includes/pie4.html %}
+
+
+&nbsp;
+  
+<div align="center">
+	<font size="+1">Occupations of Speakers Talking about the Brexit Belongs to</font>
+</div>
+<div align="justify"><p>
+	Let's first have a look at who are the speakers talking about the Brexit most frequently.
+</p></div>
+<div align="justify"><p>
+	
+<!--PIE SENDERS-->
+<div id="pie4"></div>
+{% include_relative _includes/pie4.html %}
+
+
+&nbsp;
 <!--BUTTONS-->
 
 <font size="-1"><i>Click on their photos to see their political position. </i></font><br>
