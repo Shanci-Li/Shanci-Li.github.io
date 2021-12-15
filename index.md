@@ -77,3 +77,4 @@ Let's first have a look at who are the speakers talking about the Brexit most fr
 
 
 {% include_relative _includes/pie3.html %}
+{% include_relative _includes/bar.html %}
