@@ -368,6 +368,8 @@ After analysis about the bilateral relations with some typical countries or regi
 After analysis about the bilateral relations with some typical countries, we find that countries with which Hillary had a negative sentiment all have one of the following properties:
 - Country in NATO taking the same position with US
 - Country with an unstable government or with an difficult political situation
+  
+&nbsp;
 {% include_relative _includes/lda.html %} 
 
 &nbsp;
