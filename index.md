@@ -103,7 +103,7 @@ title: Brexit
 <button class="button" onclick="changeContactPeople('Sidney Blumenthal')"><img src="/img/sidney.jpg" style="width:60%; height=60%;"></button>
 
 <p id="description">
-<b>Huma Abedin</b> : the most frequent sender.<br><br>   -<i><b>Vice chair of Hillary Clinton's 2016 campaign</b> for President of the United States.</i><br>  -<i><b>Deputy chief of staff to Clinton</b>, who was U.S. Secretary of State from 2009 to 2013.</i><br>  -<i><b>Traveling chief of staff and former assistant for Clinton</b> during Clinton's campaign for the Democratic nomination in the 2008 presidential election.</i><br><br><i>An interesting observation: She receives the most emails FROM Hillary, but is only the 8-th sender of emails TO Hillary. We guess that she excutes more Hillary's order than make reports.</i><br>She is clearly the right-hand woman of Hillary Clinton.
+<b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.
 </p>
 
 <div align="center">
