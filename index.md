@@ -20,7 +20,6 @@ title: Brexit
 <p> Brexit (a portmanteau of "British exit") was the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET). The UK is the first and so far the only member state to have left the EU, after 47 years of having been a part of the union — the EU and its predecessor the European Communities (EC), which included the European Economic Community — since 1 January 1973. Actually, the United Kindom was considering about exiting the EU ever since 2016. After several referendums and negotiations between UK-EU, they finally exit the EU in early January, 2020. And the withdrawl aggrement finally came into force on 31 January 2020. </p>
 
 <p>In our project, we would like to dive into quotations talking about the Brexit and analyze information behind these quotations to learn about people's attitude through the whole event.</p>
-
 </div>
 &nbsp;
 
@@ -48,20 +47,16 @@ title: Brexit
 <button class="button" onclick="changeContactPeople('Sidney Blumenthal')"><img src="/img/jeremy.jpg" style="width:60%; height=60%;"></button>
 
 <p id="description">
-<b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.
-</p>
+<b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.</p>
  
 <p id="description">
-<b>Boris Johnson</b> : the 2nd most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2019.</i><br>  -<i>Leader of the Conservative Party from 2019.</i><br>  <br><i>Johnson won in 2019 by uniting almost the whole of the Leave vote behind the Conservatives under the slogan ‘Get Brexit done’. He immediately packed his cabinet with ministers pledging to exit the EU even without a deal in place for an amicable divorce. Although the UK is out of the European Union, the all-encompassing job of adapting to the new reality and building a new relationship with the EU will still need to be settled by Johnson’s government.
-</p>
+<b>Boris Johnson</b> : the 2nd most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2019.</i><br>  -<i>Leader of the Conservative Party from 2019.</i><br>  <br><i>Johnson won in 2019 by uniting almost the whole of the Leave vote behind the Conservatives under the slogan ‘Get Brexit done’. He immediately packed his cabinet with ministers pledging to exit the EU even without a deal in place for an amicable divorce. Although the UK is out of the European Union, the all-encompassing job of adapting to the new reality and building a new relationship with the EU will still need to be settled by Johnson’s government.</p>
 
 <p id="description">
-<b>Nigel Frage</b> : the 3rd most frequent speaker.<br><br>   -<i>Member of the European Parliament.</i><br>  -<i>Leader of the UK Independence Party.</i><br>  <br><i>Nigel Farage has actually demonstrated the significant influence that outsider populist Eurosceptic parties can have on shaping politics upon the Brexit event. Nigel Farage’s successive parties acted as some sort of pressure groups on the British political system and on the Conservatives in particular. They contributed to the progressive radicalization of the Conservative party from the outside, with a direct effect on Britain’s relationship with the EU.
-</p>
+<b>Nigel Frage</b> : the 3rd most frequent speaker.<br><br>   -<i>Member of the European Parliament.</i><br>  -<i>Leader of the UK Independence Party.</i><br>  <br><i>Nigel Farage has actually demonstrated the significant influence that outsider populist Eurosceptic parties can have on shaping politics upon the Brexit event. Nigel Farage’s successive parties acted as some sort of pressure groups on the British political system and on the Conservatives in particular. They contributed to the progressive radicalization of the Conservative party from the outside, with a direct effect on Britain’s relationship with the EU.</p>
  
 <p id="description">  
-<b>Jeremy Corbyn</b> : the 4th most frequent speaker.<br><br>   -<i>Leader of the UK labour Party.</i><br>  -<i>Member of the Parliament of the United Kingdom.</i><br>  <br><i>Jeremy Corbyn was accused by the press of performing a ‘flip-flop’ over Brexit and a ‘flip-flop’ over the issue of freedom of movement of people after Brexit. For a politician who has built his career on authenticity, Jeremy Corbyn had already taken a risk by tempering his longstanding Euroscepticism in order to campaign, tepidly, for Remain in the referendum.
-</p>
+<b>Jeremy Corbyn</b> : the 4th most frequent speaker.<br><br>   -<i>Leader of the UK labour Party.</i><br>  -<i>Member of the Parliament of the United Kingdom.</i><br>  <br><i>Jeremy Corbyn was accused by the press of performing a ‘flip-flop’ over Brexit and a ‘flip-flop’ over the issue of freedom of movement of people after Brexit. For a politician who has built his career on authenticity, Jeremy Corbyn had already taken a risk by tempering his longstanding Euroscepticism in order to campaign, tepidly, for Remain in the referendum.</p>
 
 <!--PIE RECEIVERS-->
 <div id="pie3"></div>
