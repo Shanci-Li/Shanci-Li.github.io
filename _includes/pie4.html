@@ -5,20 +5,14 @@
         data: {
             // iris data from R
             columns: [
-                ['Cheryl Mills', 0.24761146496815287],
-                ['Huma Abedin', 0.2726910828025478],
-				['Jake Sullivan', 0.16719745222929935],
-				['Lauren Jiloty', 0.06628184713375797],
-				['Sidney Blumenthal', 0.07205414012738853],
-				['others', 0.17416401273885354]
+                ['Male', 0.7973038288572269],
+                ['Female', 0.2017400075652502],
+				        ['Others', 0.0009561635775228]
             ],
             colors: {
-                'Cheryl Mills': '#a50000',
-                'Huma Abedin': '#7f0000',
-				'Jake Sullivan': '#f16949',
-				'Lauren Jiloty': '#fed5a0',
-				'Sidney Blumenthal': '#fdd19b',
-				'others': '#afafaf'
+                'Male': '#a50000',
+                'Female': '#7f0000',
+				        'Others': '#f16949'
             },
             type : 'pie',
             onclick: function (d, i) { console.log("onclick", d, i); },
