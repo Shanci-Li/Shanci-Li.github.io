@@ -54,10 +54,10 @@ title: Brexit
 <div id="pie3"></div>
 {% include_relative _includes/pie3.html %}
 
-<!--CHAPTER: Nationality-->
+
 &nbsp;
 <div align="center">
-	<font size="+1">Nationalities of Speakers Talking about the Brexit Belongs to</font>
+	<font size="+1"><h1><b>Nationalities of Speakers Talking about the Brexit Belongs to</b></h1></font>
 </div>
 <div align="justify"><p>
 	It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
@@ -67,11 +67,11 @@ title: Brexit
 	After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
 </p></div>
 
-<!--CHAPTER: Gender-->
+
 &nbsp;
 
 <div align="center">
-	<font size="+1">Distribution of the Gender of the Speakers Talking about the Brexit</font>
+	<font size="+1"><h1><b>Distribution of the Gender of the Speakers Talking about the Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	Now we are going to analyze the gender of speakers talking about the Brexit.
@@ -88,11 +88,11 @@ title: Brexit
 	After analyzing the distribution of quotations based on different genders, it's obvious that most speakers pay attention to the Brexit are male. This comforms with the common sense that most people willing to talk about this kind of political event, like the Brexit.
 </p></div>
 
-<!--CHAPTER: Occupations-->
+
 &nbsp;
   
 <div align="center">
-	<font size="+1">Occupations of Speakers Talking about the Brexit Belongs to</font>
+	<font size="+1"><h1><b>Occupations of Speakers Talking about the Brexit Belongs to</b></h1></font>
 </div>
 <div align="justify"><p>
 	Let's first have a look at who are the speakers talking about the Brexit most frequently.
@@ -105,11 +105,11 @@ title: Brexit
 </p></div>
 <div align="justify"><p>
 
-<!--CHAPTER: Age-->
+
 &nbsp;
   
 <div align="center">
-	<font size="+1">Age Ranges of Speakers Talking about the Brexit Belongs to</font>
+	<font size="+1"><h1><b>Age Ranges of Speakers Talking about the Brexit Belongs to</b><.h1></font>
 </div>
 <div align="justify"><p>
 	Let's analyze the distriution of speakers' age ranges who talk about the Brexit.
