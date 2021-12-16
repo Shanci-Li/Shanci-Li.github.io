@@ -54,41 +54,41 @@ title: Brexit
 <div id="pie3"></div>
 {% include_relative _includes/pie3.html %}
 
-<div align="justify">
-<p>We can see that Hillary Clinton writes mostly to these 5 people: they receive 81% of all emails that Hillary writes! </p>
-<p>Is there a similar case for the inverse direction of the communication?</p>
-</div>
-
-
+<!--CHAPTER: Nationality-->
+&nbsp;
 <div align="center">
 	<font size="+1">Nationalities of Speakers Talking about the Brexit Belongs to</font>
 </div>
 <div align="justify"><p>
 	It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
 </p></div>
+{% include_relative _includes/Nationality.html %}
 <div align="justify"><p>
 	After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
 </p></div>
-<!--PIE SENDERS-->
-<div id="pie4"></div>
-{% include_relative _includes/pie4.html %}
 
-
+<!--CHAPTER: Gender-->
 &nbsp;
 
 <div align="center">
 	<font size="+1">Distribution of the Gender of the Speakers Talking about the Brexit</font>
 </div>
 <div align="justify"><p>
-	Now we are going to analyze the gender of speakers talking about the Brexit
+	Now we are going to analyze the gender of speakers talking about the Brexit.
 </p></div>
 <div align="justify"><p>
-	
+
+{% include_relative _includes/Gender.html %}
+
 <!--PIE SENDERS-->
 <div id="pie4"></div>
 {% include_relative _includes/pie4.html %}
 
+<div align="justify"><p>
+	After analyzing the distribution of quotations based on different genders, it's obvious that most speakers pay attention to the Brexit are male. This comforms with the common sense that most people willing to talk about this kind of political event, like the Brexit.
+</p></div>
 
+<!--CHAPTER: Occupations-->
 &nbsp;
   
 <div align="center">
@@ -98,13 +98,30 @@ title: Brexit
 	Let's first have a look at who are the speakers talking about the Brexit most frequently.
 </p></div>
 <div align="justify"><p>
-	
-<!--PIE SENDERS-->
-<div id="pie4"></div>
-{% include_relative _includes/pie4.html %}
+{% include_relative _includes/Occupation.html %}
 
+<div align="justify"><p>
+	Here you can see the distribution of the number of quotes based on different occupations. The result is obvious that politicians are the kind of people who talks most about the Brexit. This result is not surprising as this event is basically a political event, thus politicians always need to express their opinions to persuade their supporters. Other occupations, for example, journalist, writer, economist and blogger, are also occupations that are highly related with the politics. This explains why these groups of people would like to talk about the Brexit.
+</p></div>
+<div align="justify"><p>
 
+<!--CHAPTER: Age-->
 &nbsp;
+  
+<div align="center">
+	<font size="+1">Age Ranges of Speakers Talking about the Brexit Belongs to</font>
+</div>
+<div align="justify"><p>
+	Let's analyze the distriution of speakers' age ranges who talk about the Brexit.
+</p></div>
+<div align="justify"><p>
+{% include_relative _includes/Age.html %}
+  
+<div align="justify"><p>
+	Here we can make the conclusion from the above plot that most people caring about the Brexit are in the range between 40 years old to above 70 years old. This can be explained by following two reasons. Firstly, most politicians or people from related fields are in this age range from 40 years old to above 70 years old. What's more, people in this age range are also more concerned about political events than younger people. As you can see, there is a very limited number of quotations come from people youger than 29 years old.
+</p></div>
+<div align="justify"><p>
+
 
 <div align="center">
 	<font size="+1">____________________</font>
