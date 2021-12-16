@@ -109,7 +109,7 @@ title: Brexit
 &nbsp;
   
 <div align="center">
-	<font size="+1"><h1><b>Age Ranges of Speakers Talking about the Brexit Belongs to</b><.h1></font>
+	<font size="+1"><h1><b>Age Ranges of Speakers Talking about the Brexit Belongs to</b></h1></font>
 </div>
 <div align="justify"><p>
 	Let's analyze the distriution of speakers' age ranges who talk about the Brexit.
