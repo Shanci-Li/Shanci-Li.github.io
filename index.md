@@ -39,6 +39,27 @@ title: Brexit
 
 {% include_relative _includes/Speaker.html %}
 
+<!--BUTTONS-->
+
+<font size="-1"><i>Click on their photos to see their political position. </i></font><br>
+<button class="button" onclick="changeContactPeople('Huma Abedin')"><img src="/img/theresa.jpg" style="width:60%; height=60%;"></button>
+<button class="button" onclick="changeContactPeople('Cheryl Mills')"><img src="/img/boris.jpg" style="width:60%; height=60%;"></button>
+<button class="button" onclick="changeContactPeople('Jacob Jeremiah Sullivan')"><img src="/img/nigel.jpg" style="width:60%; height=60%;"></button>
+<button class="button" onclick="changeContactPeople('Sidney Blumenthal')"><img src="/img/jeremy.jpg" style="width:60%; height=60%;"></button>
+
+<p id="description">
+<b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.
+</p>
+  
+<b>Boris Johnson</b> : the 2nd most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2019.</i><br>  -<i>Leader of the Conservative Party from 2019.</i><br>  <br><i>Johnson won in 2019 by uniting almost the whole of the Leave vote behind the Conservatives under the slogan ‘Get Brexit done’. He immediately packed his cabinet with ministers pledging to exit the EU even without a deal in place for an amicable divorce. Although the UK is out of the European Union, the all-encompassing job of adapting to the new reality and building a new relationship with the EU will still need to be settled by Johnson’s government.
+</p>
+ 
+<b>Nigel Frage</b> : the 3rd most frequent speaker.<br><br>   -<i>Member of the European Parliament.</i><br>  -<i>Leader of the UK Independence Party.</i><br>  <br><i>Nigel Farage has actually demonstrated the significant influence that outsider populist Eurosceptic parties can have on shaping politics upon the Brexit event. Nigel Farage’s successive parties acted as some sort of pressure groups on the British political system and on the Conservatives in particular. They contributed to the progressive radicalization of the Conservative party from the outside, with a direct effect on Britain’s relationship with the EU.
+</p>
+  
+<b>Jeremy Corbyn</b> : the 4th most frequent speaker.<br><br>   -<i>Leader of the UK labour Party.</i><br>  -<i>Member of the Parliament of the United Kingdom.</i><br>  <br><i>Jeremy Corbyn was accused by the press of performing a ‘flip-flop’ over Brexit and a ‘flip-flop’ over the issue of freedom of movement of people after Brexit. For a politician who has built his career on authenticity, Jeremy Corbyn had already taken a risk by tempering his longstanding Euroscepticism in order to campaign, tepidly, for Remain in the referendum.
+</p>
+
 <!--PIE RECEIVERS-->
 <div id="pie3"></div>
 {% include_relative _includes/pie3.html %}
@@ -94,17 +115,6 @@ title: Brexit
 
 
 &nbsp;
-<!--BUTTONS-->
-
-<font size="-1"><i>Click on their photos to see their political position. </i></font><br>
-<button class="button" onclick="changeContactPeople('Huma Abedin')"><img src="/img/huma.jpg" style="width:60%; height=60%;"></button>
-<button class="button" onclick="changeContactPeople('Cheryl Mills')"><img src="/img/cheryl.jpg" style="width:60%; height=60%;"></button>
-<button class="button" onclick="changeContactPeople('Jacob Jeremiah Sullivan')"><img src="/img/jake.jpg" style="width:60%; height=60%;"></button>
-<button class="button" onclick="changeContactPeople('Sidney Blumenthal')"><img src="/img/sidney.jpg" style="width:60%; height=60%;"></button>
-
-<p id="description">
-<b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.
-</p>
 
 <div align="center">
 	<font size="+1">____________________</font>
