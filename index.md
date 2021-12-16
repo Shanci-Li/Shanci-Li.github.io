@@ -37,9 +37,7 @@ title: Brexit
 	Let's first have a look at who are the speakers talking about the Brexit most frequently.
 </p></div>
 
-<div align="center">
-	<font size="+1">Receivers of emails sent by Hillary</font>
-</div>
+{% include_relative _includes/Speaker.html %}
 
 <!--PIE RECEIVERS-->
 <div id="pie3"></div>
