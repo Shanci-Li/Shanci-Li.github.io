@@ -140,7 +140,7 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
   By sliding to adjust relevance metric and observing the Top-30 most relevant terms inside each topic, we can summarize each topic and analysis the most significant concerns when people talking about Brexit.</p>
   
-<p>The first topic covers 29.5% of tokens in the reported quotations. The most meaingful keywords in the topic distribution are: EUR, scotland, northern_ireland, agreement, border, option, soft, extension, priority, discussion, certainty, relationship, withdrawal agreement, farmer, recognise, law, disastrous, transition period. Therefore, we suspect this topic is mainly about the way how Ireland and Scotland would act during the Brexit.</p>
+<p>The first topic covers 29.5% of tokens in the reported quotations. The most meaingful keywords in the topic distribution are: EU, scotland, northern ireland, agreement, border, option, soft, extension, priority, discussion, certainty, relationship, withdrawal agreement, farmer, recognise, law, disastrous, transition period. Therefore, we suspect this topic is mainly about the way how Ireland and Scotland would act during the Brexit.</p>
  
 <p>The second topic covers 28.4% of tokens and is mainly related to politics. The most meaingful keywords in the topic distribution are: party, election, parliament, labour, leave, tory, boris_johnson, prime_minister, government, referendum, conservative, campaign, british, general election, boris and chance. Therefore, we suspect this topic is about the different attitudes of the all kinds of parties in the UK.</p>
   
