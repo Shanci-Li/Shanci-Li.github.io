@@ -122,14 +122,16 @@ title: The burst of Brexit bubble
 <div align="center">
 	<font size="+1"><h1><b>What are people talking about?</b></h1></font>
 </div>
+&nbsp;
 <div align="justify"><p>
   The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
+&nbsp;
 <div align="center">
   <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;">
-  
+&nbsp;
 </div>
 <div align="justify"><p>
-  To further analyze the content of the quotations related to the Brexit, here we perform the LDA (Latent Dirichlet Allocation) topic detection model. Through the analysis, the model achieves highest coherence when the assigned topic number is 4. Here is the distribution of the top 4 topic:
+  To further analyze the content of the quotations related to the Brexit, we perform the LDA (Latent Dirichlet Allocation) topic detection model. Through the analysis, the model achieves highest coherence when the assigned topic number is 4. The outputs of the algorithm is a distribution among the words in the topic, which means we represent a topic by a distribution of frequent words. This is very useful in recommendation system or information retrieval when we want to calculate the similarity and relation among different quotations. But it can not summarize a topic in a sentence or several meaningful phrases. So we observe the outputs of topic and summarize a topic manually.
 </p></div>
 
 <div align="center">
@@ -144,7 +146,10 @@ title: The burst of Brexit bubble
   
 <p>The third topic covers 23.6% of tokens. The most meaingful keywords in the topic distribution are: business, market, delay, company, challenge, opportunity, industry, uncertainty, investment, work, london, economy. Therefore, we suspect this topic is mainly the concerns about business and economy after Brexit.</p>
   
-<p>The forth topic covers 18.5% of tokens. The most meaingful keywords in the topic distribution are: uncertainty, risk, economy, impact, market, concern, economic, growth, cost, trade, pound, price, business, rise, demand, chaos, worry, sterling. Therefore, we suspect this topic is mainly the concerns about chaos  after Brexit. </p><p> </p><p>
+<p>The forth topic covers 18.5% of tokens. The most meaingful keywords in the topic distribution are: uncertainty, risk, economy, impact, market, concern, economic, growth, cost, trade, pound, price, business, rise, demand, chaos, worry, sterling. Therefore, we suspect this topic is mainly the concerns about chaos  after Brexit. </p>
+&nbsp;
+&nbsp;
+<p>
 <b>External resource</b>:</p>
 <p>For Ireland, the main discussion is on the soft or the hard border with the EU. The impact of Brexit on the Irish border and its adjacent polities involves changes in trade, customs, immigration checks, local economies, services, recognition of qualifications, medical cooperation, and other matters, now that it is the only external EU land border between the United Kingdom and the European Union. After the UK Parliament voted to leave the European Union, all parties said that they want to avoid a hard border in Ireland, due particularly to the border's historically sensitive nature. Border issues were one of three areas of focused negotiation in the Withdrawal Agreement. Following the United Kingdom's exit from the European Union on 31 January 2020, this border is also the frontier between the EU and an external country. The Northern Ireland Protocol of the Brexit withdrawal agreement commits the UK and the EU to maintaining an open border in Ireland, so that (in many respects) the de facto frontier is the Irish Sea border between the two islands. This requires the continued application of the Common Travel Area as well as free trade of goods (including electricity) between Ireland and Northern Ireland. The latter requires the UK to follow EU law in Northern Ireland with respect to these areas, with jurisdiction of the European Court of Justice in the interpretation of the law.</p>
   
