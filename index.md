@@ -50,10 +50,6 @@ title: Brexit
 <b>Theresa May</b> : the most frequent speaker.<br><br>   -<i>Prime Minister of the United Kingdom from 2016 to 2019.</i><br>  -<i>Leader of the Conservative Party from 2016 to 2019.</i><br>  <br><i>Being the leader committed to delivering Brexit, Theresa May started her premiership dealing with Brexit and also ended with it. The outcome of Brexit’s referendum was politically binding on Theresa May despite her having campaigned against leaving the EU. Faced with uncertainty and chaos indirectly caused by David Cameron’s miscalculation, Theresa May had been in the whirl of Brexit, grappling with a number of challenges.</i><br>
 </p>
 
-<!--PIE RECEIVERS-->
-<div id="pie3"></div>
-{% include_relative _includes/pie3.html %}
-
 
 &nbsp;
 <div align="center">
