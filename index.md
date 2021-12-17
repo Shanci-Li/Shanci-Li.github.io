@@ -159,33 +159,6 @@ At the start of 2016, the number of overall quotations about brexit is very smal
 
 &nbsp;
 
-<!--Some interesting observations-->
-
-<!--PIE ANONYMITY-->
-
-&nbsp;
-
-<div align="center">
-	<font size="+1">____________________</font>
-</div>
-&nbsp;
-
-
-
-<div align="center">
-	<font size="+1">____________________</font>
-</div>
-&nbsp;
-
-
----
-&nbsp;
-
-
-<div align="center">
-	<font size="+1">____________________</font>
-</div>
-&nbsp;
 
 {% include_relative _includes/lda.html %} 
 
