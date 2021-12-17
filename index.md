@@ -208,6 +208,7 @@ By analyzing quotations related to the Brexit, we conclude that: <br>
 - Most speakers pay attention to the Brexit are male.<br>
 - Politicians are the kind of people that talks most about the Brexit. Other dominant occupations that talks about the Brexit are also highly related to the politics, such as journalist, writer, economist and blogger. <br>
 - Most of speakers talk about the Brexit are in the age range from 40 years old to above 70 years old.<br>
+- Most of speakers are talking about the political, economic issues and the potential chaos with the Brexit. The Irish boder and the independence referendum of Scotland are two of the main focus during the procedure.<br>
 - The sentiment analysis shows most quotations from UK people are negative, meaning that the UK people are regretful to leave the EU. Although the positive quotation rate increase in some specific period, the negative quotation dominates. <br>
 </ul>
 
