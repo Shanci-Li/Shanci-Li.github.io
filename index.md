@@ -123,7 +123,7 @@ title: Brexit
 	<font size="+1"><h1><b>What are people talking about?</b></h1></font>
 </div>
 <div align="justify"><p>
-  First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
+  We are curious about the content of quotations so that we can gain more insight of how the British people think about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
 <div align="center">
   <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;">
   
@@ -133,7 +133,7 @@ title: Brexit
 </p></div>
 
 <div align="center">
-{% include_relative _includes/lda.html %} 
+{% include_relative _includes/lda.html max-width=100% %} 
   
 <div align="justify"><p>
   By sliding to adjust relevance metric and observing the Top-30 most relevant terms inside each topic, we can summarize each topic and analysis the most significant concerns when people talking about Brexit. </p>
