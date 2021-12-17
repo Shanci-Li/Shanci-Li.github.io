@@ -127,7 +127,7 @@ title: Brexit
 <div align="center">
   <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;">
   
-</p></div>
+</div>
 <div align="justify"><p>
   To further analyze the content of the quotations related to the Brexit, here we perform the LDA (Latent Dirichlet Allocation) topic detection model. Through the analysis, the model achieves highest coherence when the assigned topic number is 4. Here is the distribution of the top 4 topic:
 </p></div>
