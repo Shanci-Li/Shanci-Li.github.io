@@ -121,6 +121,22 @@ title: Brexit
 	Here we can make the conclusion from the above plot that most people caring about the Brexit are in the range between 40 years old to above 70 years old. This can be explained by following two reasons. Firstly, most politicians or people from related fields are in this age range from 40 years old to above 70 years old. What's more, people in this age range are also more concerned about political events than younger people. As you can see, there is a very limited number of quotations come from people youger than 29 years old.
 </p></div>
 <div align="justify"><p>
+  
+  &nbsp;
+  
+  <div align="center">
+	<font size="+1"><h1><b>Are UK people Regret to Leave the EU</b></h1></font>
+</div>
+<div align="justify"><p>
+	Brexit has been a truth since 2020. We have come up with an interesting question: do they regret to make the decision of Brexit? We will investigate if there is a altitude shift between 2016 and 2020. Sentiment analysis has been applied to the quotations from UK people using pretrained model. The output is binary including positive and negative about Brexit.
+</p></div>
+<div align="justify"><p>
+{% include_relative _includes/quotation_number.html %}
+  
+<div align="justify"><p>
+123test
+</p></div>
+<div align="justify"><p>
 
 
 <div align="center">
