@@ -125,7 +125,7 @@ title: The burst of Brexit bubble
 </div>
 &nbsp;
 <div align="justify"><p>
-  The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below:<p></div> 
+  The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below:<p>
 &nbsp;
 <div align="center">
   <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;"></div>
@@ -155,7 +155,7 @@ title: The burst of Brexit bubble
   
 <p>For Scotland, after the Brexit referendum, the Scottish Government – led by the Scottish National Party (SNP) – planned another <b>independence referendum</b> because Scotland voted to remain in the EU while England and Wales voted to leave. It had suggested this before the Brexit referendum. The First Minister of Scotland, Nicola Sturgeon, requested a referendum be held before the UK's withdrawal, but the British Prime Minister rejected this timing.At the referendum in 2014,  <b>55% of voters had decided to remain in the UK</b>, but the referendum on Britain's withdrawal from the EU was held in 2016, with <b>62% of Scottish voters against it</b>. In 2017, if Northern Ireland remained associated with the EU – for example, by remaining in the Customs Union, some analysts argued Scotland would also insist on special treatment. However, in the event, the only part of the United Kingdom which received unique treatment was Northern Ireland.
   
-</p></div>
+</p>
 
 
 &nbsp;
@@ -169,7 +169,7 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
 {% include_relative _includes/quotation_number.html %}
 {% include_relative _includes/quotation_with_sentiment.html %}
-{% include_relative _includes/quotation_percentage.html %}</div>
+{% include_relative _includes/quotation_percentage.html %}
 <div align="justify">
 <p>At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is <b>steep increase number of quotations</b> about Brexit from May to June. The reason is that the UK held a referendum on whether to leave the European Union on 23 June. 52% of voters voted to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
   
@@ -191,7 +191,7 @@ title: The burst of Brexit bubble
  
 &nbsp;
 
----
+
 <!--CHAPTER: CONCLUSITON-->
 &nbsp;
 
@@ -217,7 +217,7 @@ By analyzing quotations related to the Brexit, we conclude that: <br>
 
 &nbsp;
 
----
+
 <!--CHAPTER: AUTHOR-->
 &nbsp;
 
