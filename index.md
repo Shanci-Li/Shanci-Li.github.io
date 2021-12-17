@@ -17,9 +17,9 @@ title: The burst of Brexit bubble
 </div>
 
 <div align="justify">
-<p> Brexit (a portmanteau of "British exit") was the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET). Actually, the United Kindom was considering about exiting the EU ever since 2016. After several referendums and negotiations between UK-EU, they finally exit the EU in early January, 2020. And the withdrawl aggrement finally came into force on 31 January 2020. </p>
+<p> Brexit (a portmanteau of "British exit") is the withdrawal of the United Kingdom (UK) from the European Union (EU) at 23:00 GMT on 31 January 2020 (00:00 CET). Actually, the United Kindom considers exiting the EU ever since 2016. After several referendums and negotiations between UK-EU, they finally exit the EU in early January, 2020. And the withdrawl aggrement finally came into force on 31 January 2020. </p>
 
-<p> Shortly afterwards, the post-brexit scenario has raised concerns about regional integration and economic security both in the UK and the EU in recent years. Hereby we look forward to shedding some light on these current issues by a full retrospect of Brexit. We'll dive into 95808 quotations talking about the Brexit from 2016 to 2020, summarize characteristics of relevant speakers, extract underlying top topics behind Brexit, and further analyze the changing attitudes of speakers throughout the whole process.</p>
+<p> Shortly afterwards, the post-brexit scenario has raised concerns about regional integration and economic security both in the UK and the EU in recent years. Hereby we look forward to shed some light on these current issues by a full retrospect of Brexit. We'll dive into 95808 quotations talking about the Brexit from 2016 to 2020, summarize characteristics of relevant speakers, extract underlying top topics behind Brexit, and further analyze the attitudes of UK people throughout the whole process.</p>
 </div>
 &nbsp;
 
@@ -56,11 +56,11 @@ title: The burst of Brexit bubble
 	<font size="+1"><h1><b>Nationalities of Speakers Talking about the Brexit Belongs to</b></h1></font>
 </div>
 <div align="justify"><p>
-	It's also very interesting to analyze where do speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
+	It's also very interesting to analyze where speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
 </p></div>
 {% include_relative _includes/Nationality.html %}
 <div align="justify"><p>
-	After visualizing the top 20 nations talking about the Brexit, it's obvious that most of speakers talking about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
+	After visualizing the top 20 nations talking about the Brexit, it is obvious that most of speakers talking about the Brexit came from developed countries in the world, for example, the United Kindom, the United States of America, Australia and so on. As this event, Brexit, was mostly about the European situation, we can observe that most countries in the top 20 nations talking about the Brexit were from the Europe, which shows that people care about the Brexit are mostly from the Europe.
 </p></div>
 
 
