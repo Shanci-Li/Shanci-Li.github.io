@@ -166,7 +166,7 @@ title: Brexit
 <div align="justify"><p>
 {% include_relative _includes/quotation_number.html %}
 {% include_relative _includes/quotation_with_sentiment.html %}
-{% include_relative _includes/quotation_percetage.html %} 
+{% include_relative _includes/quotation_percentage.html %} 
 <div align="justify">
 <p>At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is steep increase number of quotations about Brexit from May to June. The reason is that the UK holds a referendum on whether to leave the European Union on 23 June. 52% of voters vote to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
   
