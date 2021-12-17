@@ -123,7 +123,7 @@ title: Brexit
 	<font size="+1"><h1><b>What are people talking about?</b></h1></font>
 </div>
 <div align="justify"><p>
-  We are curious about the content of quotations so that we can gain more insight of how the British people think about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
+  The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
 <div align="center">
   <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;">
   
@@ -133,10 +133,10 @@ title: Brexit
 </p></div>
 
 <div align="center">
-{% include_relative _includes/lda.html max-width="800px" %} 
+{% include_relative _includes/lda.html %} 
   
 <div align="justify"><p>
-  By sliding to adjust relevance metric and observing the Top-30 most relevant terms inside each topic, we can summarize each topic and analysis the most significant concerns when people talking about Brexit. test_800</p>
+  By sliding to adjust relevance metric and observing the Top-30 most relevant terms inside each topic, we can summarize each topic and analysis the most significant concerns when people talking about Brexit.</p>
   
 <p>The first topic covers 29.5% of tokens in the reported quotations. The most meaingful keywords in the topic distribution are: EUR, scotland, northern_ireland, agreement, border, option, soft, extension, priority, discussion, certainty, relationship, withdrawal agreement, farmer, recognise, law, disastrous, transition period. Therefore, we suspect this topic is mainly about the way how Ireland and Scotland would act during the Brexit.</p>
  
