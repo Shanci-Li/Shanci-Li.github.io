@@ -190,7 +190,7 @@ title: The burst of Brexit bubble
 
 <p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdrawed from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements began for the period ending on 31 December 2020.</p>
  
-<p> From the graph, <b>the negative also dominate the most time from 2016 to 2020</b>. That can also verify that the result of referendum in 2016 is totally unexpected. The Brexit lasts almost 4 years and such a long time can reflect that Brexit received great pressure from the opponents. Most people are actually negative about Brexit, but the leader of government insists on this unprecedented event.
+<p> From the graph, <b>the negative also dominate the most time from 2016 to 2020</b>. That can also verify that the result of referendum in 2016 is totally unexpected. The Brexit lasts almost 4 years and such a long time can reflect that Brexit received great pressure from the opponents. Most people are actually negative about Brexit, but the leader of government insists on this unprecedented event.</p>
   
   
 &nbsp;
