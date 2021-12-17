@@ -125,16 +125,29 @@ title: Brexit
   &nbsp;
   
   <div align="center">
-	<font size="+1"><h1><b>Are UK people Regret to Leave the EU</b></h1></font>
+	<font size="+1"><h1><b>Are UK people Regret to Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	Brexit has been a truth since 2020. We have come up with an interesting question: do they regret to make the decision of Brexit? We will investigate if there is a altitude shift between 2016 and 2020. Sentiment analysis has been applied to the quotations from UK people using pretrained model. The output is binary including positive and negative about Brexit.
 </p></div>
 <div align="justify"><p>
 {% include_relative _includes/quotation_number.html %}
-  
+{% include_relative _includes/quotation_with_sentiment.html %}
+{% include_relative _includes/quotation_percetage.html %} 
 <div align="justify"><p>
-123test
+At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is steep increase number of quotations about Brexit from May to June. The reason is that the UK holds a referendum on whether to leave the European Union on 23 June. 52% of voters vote to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
+  
+<p>After three months, the number of quotation decreases to the level before the Brexit, but it suddenly increase to more than 500 in November. On November, in the Miller case, the High Court ruled against the Secretary of State for Exiting the European Union on the question of whether notice could be given under Article 50 of the Treaty on European Union using the Royal prerogative. On December, the House of Commons votes 461 to 89 in favour of Theresa May's plan to trigger Article 50 by the end of March 2017.</p>
+
+<p>The quotation number is going up since the start of 2017 and reach peak on June 2017. On March 2017, a letter from Theresa May was handed to President of the European Council Donald Tusk to invoke Article 50, starting a two-year process with the UK due to leave the EU on 29 March 2019. Brexit negotiations commenced on 19 June. This also resulted in heated discussion on newspapers. The number of quotations reached the largest during 2017 period. We have noticed that the altitude of UK people toward Brexit fluctuated during this year, but the negative quotation dominates.</p>
+
+<p>There is a noticeable rising volatility from April 2018 to May 2019. Meanwhile, the negative quotations are steadily increase during this period. The background event is House of Commons passed the "Leaving the European Union Act", which was passed by the House of Lords in May and signed by the Queen of UK in June. According to the Act, the United Kingdom will withdraw from the European Union at 23:00 on March 29, 2019. The Brexit withdrawal agreement is published on 14 November. After the United Kingdom and the European Union reached a draft Brexit agreement, it caused strong dissatisfaction among opponents. The Brexit Minister Dominic Raab, who had been in office for only four months, resigned on the grounds of dissatisfaction with the draft. The Minister of Work and Pensions, Esther McVeigh, and two other deputy ministerial officials also resigned. Dominic Raab issued a statement saying that he cannot support the draft Brexit agreement "without conscience." He criticized the content of the draft regarding the resolution of the Irish border issue and the continued presence of the United Kingdom in the EU Customs Union. He believed that this would not allow the United Kingdom to truly leave the European Union.</p>
+
+<p>From the graph, we can see that the number of quotation between January 2019 and May 2019 is going up and down. The reason behind it is the first and second meaningful vote are held on the Withdrawal Agreement in the UK House of Commons. The UK government are both defeated. Therefore, Theresa May requests the EU extend the Article 50 period until 30 June 2019. After that, the UK cannot pass Withdrawal Agreement. Theresa May announces that she will resign as Conservative Party leader, effective 7 June, due to being unable to get her Brexit plans through parliament and several votes of no confidence. </p>
+
+<p>On 23 July, Theresa May officially resigns and Boris Johnson accepts the Queen's invitation to form a new government and becomes Prime Minister of the United Kingdom, the third since the referendum. There is a small rise since July 2019. A noticeable increase in positive quotation from December 2019.The general election held on 12 December. The Conservative Party gains a landslide 80-seat majority in parliament. Boris Johnson is invited to form his second government by The Queen, beginning his second term and allowing Brexit to be completed. The Withdrawal Agreement passes its second reading in the House of Commons in a 358–234 vote and it bans the government to extend the Brexit transition period.<p>
+
+<p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdraws from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements begin for the period ending on 31 December 2020.
 </p></div>
 <div align="justify"><p>
 
@@ -420,9 +433,6 @@ By explorating Hillary Clinton's emails, we conclude that: <br>
 <!--CHAPTER: AUTHOR-->
 &nbsp;
 
-The research is made by the best team in the universe:   
-<center><a href="https://github.com/TheLegendOfZalda"><b><font size="+2">TheLegendOfZalda</font></b></a></center>
+The research is made by:   
+<center><a href="https://github.com/epfl-ada/ada-2021-project-skrw"><b><font size="+2">skrw</font></b></a></center>
 
-<img src="/img/logo.png" class="img-centered" style="width:20%; height=20%;">
-
-<font size="-2">The logo is inspired by the logo of <ins>Zelda: Breath of the Wild</ins>. This is a good game but has nothing to do with our project. It's just our team is named <b>Zalda</b>.</font>
