@@ -28,15 +28,18 @@ title: The burst of Brexit bubble
 &nbsp;
 
 <div align="center">
-<font size="+1"><h1><b>Speakers Talking about the Brexit Most Frequently</b></h1></font>
+<font size="+1"><h1><b>Speakers talking about Brexit most frequently</b></h1></font>
 </div>
 
 
-<div align="justify"><p>
-	Let's first have a look at who are the speakers talking about the Brexit most frequently.
-</p></div>
-
+<!--SPEAKER-->
 {% include_relative _includes/Speaker.html %}
+<div align="justify">
+<p>Let's first catch a glimpse of the top 20 speakers talking about Brexit most frequently. Theresa May, Boris Johnson, Nigel Farage……Looks familiar? Bingo, they’re all influential figures politically active over the last decade.</p>
+  
+<p>Hereafter we focus on the four most frequent speakers, highlighting their positions and relations with Brexit.</p>
+</div>
+
  
 <!--BUTTONS-->
 
@@ -53,7 +56,7 @@ title: The burst of Brexit bubble
 
 &nbsp;
 <div align="center">
-	<font size="+1"><h1><b>Nationalities of Speakers Talking about the Brexit Belongs to</b></h1></font>
+	<font size="+1"><h1><b>Nationalities of speakers talking about Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	It's also very interesting to analyze where speakers talking about the Brexit come from. This gives us information on people from which country cares about the Brexit.
@@ -67,7 +70,7 @@ title: The burst of Brexit bubble
 &nbsp;
 
 <div align="center">
-	<font size="+1"><h1><b>Distribution of the Gender of the Speakers Talking about the Brexit</b></h1></font>
+	<font size="+1"><h1><b>Distribution of the Gender of speakers talking about Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	Now we are going to analyze the gender of speakers talking about the Brexit.
@@ -88,7 +91,7 @@ title: The burst of Brexit bubble
 &nbsp;
   
 <div align="center">
-	<font size="+1"><h1><b>Occupations of Speakers Talking about the Brexit Belongs to</b></h1></font>
+	<font size="+1"><h1><b>Occupations of speakers talking about Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	Let's first have a look at who are the speakers talking about the Brexit most frequently.
@@ -105,7 +108,7 @@ title: The burst of Brexit bubble
 &nbsp;
   
 <div align="center">
-	<font size="+1"><h1><b>Age Ranges of Speakers Talking about the Brexit Belongs to</b></h1></font>
+	<font size="+1"><h1><b>Age ranges of speakers talking about Brexit</b></h1></font>
 </div>
 <div align="justify"><p>
 	Let's analyze the distriution of speakers' age ranges who talk about the Brexit.
@@ -163,7 +166,7 @@ title: The burst of Brexit bubble
 &nbsp;
   
   <div align="center">
-	<font size="+1"><h1><b>Are UK people Regret to Brexit</b></h1></font>
+	<font size="+1"><h1><b>Do UK people regret Brexit?</b></h1></font>
 </div>
 <div align="justify"><p>
 	Brexit has been a truth since 2020. We have come up with an interesting question: do they regret to make the decision of Brexit? We will investigate if there is a altitude shift between 2016 and 2020. Sentiment analysis has been applied to the quotations from UK people using pretrained model. The output is binary including positive and negative about Brexit.
@@ -187,10 +190,10 @@ title: The burst of Brexit bubble
 
 <p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdrawed from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements began for the period ending on 31 December 2020.</p>
  
-<p> From the graph, <b>the negative also dominate the most time from 2016 to 2020</b>. That can also verify that the result of referendum in 2016 is totally unexpected. The Brexit lasts almost 4 years and such a long time can reflect that Brexit received great pressure from the opponents. Most people are actually negative about Brexit, but the leader of government insists on this unprecedented event. /p>
-</div>
+<p> From the graph, <b>the negative also dominate the most time from 2016 to 2020</b>. That can also verify that the result of referendum in 2016 is totally unexpected. The Brexit lasts almost 4 years and such a long time can reflect that Brexit received great pressure from the opponents. Most people are actually negative about Brexit, but the leader of government insists on this unprecedented event.
+  
+  
 &nbsp;
-
 
 ---
 <!--CHAPTER: CONCLUSITON-->
