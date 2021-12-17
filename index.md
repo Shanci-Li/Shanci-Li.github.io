@@ -167,8 +167,8 @@ title: Brexit
 {% include_relative _includes/quotation_number.html %}
 {% include_relative _includes/quotation_with_sentiment.html %}
 {% include_relative _includes/quotation_percetage.html %} 
-<div align="justify"><p>
-At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is steep increase number of quotations about Brexit from May to June. The reason is that the UK holds a referendum on whether to leave the European Union on 23 June. 52% of voters vote to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
+<div align="justify">
+<p>At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is steep increase number of quotations about Brexit from May to June. The reason is that the UK holds a referendum on whether to leave the European Union on 23 June. 52% of voters vote to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
   
 <p>After three months, the number of quotation decreases to the level before the Brexit, but it suddenly increase to more than 500 in November. On November, in the Miller case, the High Court ruled against the Secretary of State for Exiting the European Union on the question of whether notice could be given under Article 50 of the Treaty on European Union using the Royal prerogative. On December, the House of Commons votes 461 to 89 in favour of Theresa May's plan to trigger Article 50 by the end of March 2017.</p>
 
@@ -178,13 +178,11 @@ At the start of 2016, the number of overall quotations about brexit is very smal
 
 <p>From the graph, we can see that the number of quotation between January 2019 and May 2019 is going up and down. The reason behind it is the first and second meaningful vote are held on the Withdrawal Agreement in the UK House of Commons. The UK government are both defeated. Therefore, Theresa May requests the EU extend the Article 50 period until 30 June 2019. After that, the UK cannot pass Withdrawal Agreement. Theresa May announces that she will resign as Conservative Party leader, effective 7 June, due to being unable to get her Brexit plans through parliament and several votes of no confidence. </p>
 
-<p>On 23 July, Theresa May officially resigns and Boris Johnson accepts the Queen's invitation to form a new government and becomes Prime Minister of the United Kingdom, the third since the referendum. There is a small rise since July 2019. A noticeable increase in positive quotation from December 2019.The general election held on 12 December. The Conservative Party gains a landslide 80-seat majority in parliament. Boris Johnson is invited to form his second government by The Queen, beginning his second term and allowing Brexit to be completed. The Withdrawal Agreement passes its second reading in the House of Commons in a 358–234 vote and it bans the government to extend the Brexit transition period.<p>
+<p>On 23 July, Theresa May officially resigns and Boris Johnson accepts the Queen's invitation to form a new government and becomes Prime Minister of the United Kingdom, the third since the referendum. There is a small rise since July 2019. A noticeable increase in positive quotation from December 2019.The general election held on 12 December. The Conservative Party gains a landslide 80-seat majority in parliament. Boris Johnson is invited to form his second government by The Queen, beginning his second term and allowing Brexit to be completed. The Withdrawal Agreement passes its second reading in the House of Commons in a 358–234 vote and it bans the government to extend the Brexit transition period.</p>
 
-<p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdraws from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements begin for the period ending on 31 December 2020.
-</p></div>
-
-  
- &nbsp;
+<p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdraws from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements begin for the period ending on 31 December 2020.</p>
+</div>
+&nbsp;
 
 <div align="center">
 	<font size="+1">____________________</font>
@@ -216,7 +214,7 @@ By explorating Hillary Clinton's emails, we conclude that: <br>
 
 <p><b>Surely that we hope to see a transparent world, but when something is related to confidential information concerning the national security, it should be prudently treated.</b></p>
 </div>
-
+<div align="justify"><p>
 &nbsp;
 
 ---
