@@ -186,12 +186,6 @@ title: The burst of Brexit bubble
 </div>
 &nbsp;
 
-<div align="center">
-	<font size="+1">____________________</font>
-</div>
-
-
-&nbsp;
 
 ---
 <!--CHAPTER: CONCLUSITON-->
