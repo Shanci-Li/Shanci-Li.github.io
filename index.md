@@ -200,12 +200,13 @@ title: Brexit
 </div>
 
 <div align="justify">
-By explorating Hillary Clinton's emails, we conclude that: <br>
+By analyzing quotations related to the Brexit, we conclude that: <br>
 
 <ul>
-- Hillary sends professional emails to her colleagues via her personal email account on non-government servers during her tenure as Secretary of State.<br>
-- The keywords and topics in Hillary’s emails are associated with the international events.<br>
-- The sentiment to other countries shown in her emails can reflect the national strategy of U.S. and may influence bilateral diplomatic relations. <br>
+- Most of speakers talk about the Brexit came from dominant countries in the world, for example, the United Kindom, the United States of America, Australia and so on.<br>
+- Most speakers pay attention to the Brexit are male.<br>
+- Politicians are the kind of people that talks most about the Brexit. Other dominant occupations that talks about the Brexit are also highly related to the politics, such as journalist, writer, economist and blogger. <br>
+- Most of speakers talk about the Brexit are in the age range from 40 years old to above 70 years old.<br>
 </ul>
 
 <p>The above findings make us think that using personal emails for discussing international affaires may <b>cause severe consequences to the national security and diplomacy.</b></p>
