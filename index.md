@@ -75,7 +75,6 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
 	Now we are going to analyze the gender of speakers talking about the Brexit.
 </p></div>
-<div align="justify"><p>
 
 {% include_relative _includes/Gender.html %}
 
@@ -96,13 +95,12 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
 	Let's first have a look at who are the speakers talking about the Brexit most frequently.
 </p></div>
-<div align="justify"><p>
+
 {% include_relative _includes/Occupation.html %}
 
 <div align="justify"><p>
 	Here you can see the distribution of the number of quotes based on different occupations. The result is obvious that politicians are the kind of people who talks most about the Brexit. This result is not surprising as this event is basically a political event, thus politicians always need to express their opinions to persuade their supporters. Other occupations, for example, journalist, writer, economist and blogger, are also occupations that are highly related with the politics. This explains why these groups of people would like to talk about the Brexit.
 </p></div>
-<div align="justify"><p>
 
 
 &nbsp;
@@ -113,13 +111,13 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
 	Let's analyze the distriution of speakers' age ranges who talk about the Brexit.
 </p></div>
-<div align="justify"><p>
+
 {% include_relative _includes/Age.html %}
   
 <div align="justify"><p>
 	Here we can make the conclusion from the above plot that most people caring about the Brexit are in the range between 40 years old to above 70 years old. This can be explained by following two reasons. Firstly, most politicians or people from related fields are in this age range from 40 years old to above 70 years old. What's more, people in this age range are also more concerned about political events than younger people. As you can see, there is a very limited number of quotations come from people youger than 29 years old.
 </p></div>
-<div align="justify"><p>
+
   
 &nbsp;
 <div align="center">
@@ -127,18 +125,17 @@ title: The burst of Brexit bubble
 </div>
 &nbsp;
 <div align="justify"><p>
-  The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below: 
+  The Brexit was not decided and finished in one moment. It has been last for 4 years. There are numerous issues to discuss and negotiate during the procedure. We are curious about the content of quotations so that we can gain more insight of what the British people care most about Brexit. Here we apply topic detection techniques to get the topic of these quotations. First, we build the tf-idf matrix of the quotations shown in the newspapers and visualize the most frequent ones as below:<p></div> 
 &nbsp;
 <div align="center">
-  <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;">
+  <img src="/img/WordClouds_of_Topics.png" class="img-centered" style="width:100%; height=100%;"></div>
 &nbsp;
-</div>
 <div align="justify"><p>
   To further analyze the content of the quotations related to the Brexit, we perform the LDA (Latent Dirichlet Allocation) topic detection model. Through the analysis, the model achieves highest coherence when the assigned topic number is 4. The outputs of the algorithm is a distribution among the words in the topic, which means we represent a topic by a distribution of frequent words. This is very useful in recommendation system or information retrieval when we want to calculate the similarity and relation among different quotations. But it can not summarize a topic in a sentence or several meaningful phrases. So we observe the outputs of topic and summarize a topic manually.
 </p></div>
 
 <div align="center">
-{% include_relative _includes/lda.html %} 
+{% include_relative _includes/lda.html %}</div>
   
 <div align="justify"><p>
   By sliding to adjust relevance metric and observing the Top-30 most relevant terms inside each topic, we can summarize each topic and analysis the most significant concerns when people talking about Brexit.</p>
@@ -149,9 +146,9 @@ title: The burst of Brexit bubble
   
 <p>The third topic covers 23.6% of tokens. The most meaingful keywords in the topic distribution are: business, market, delay, company, challenge, opportunity, industry, uncertainty, investment, work, london, economy. Therefore, we suspect this topic is mainly the concerns about business and economy after Brexit.</p>
   
-<p>The forth topic covers 18.5% of tokens. The most meaingful keywords in the topic distribution are: uncertainty, risk, economy, impact, market, concern, economic, growth, cost, trade, pound, price, business, rise, demand, chaos, worry, sterling. Therefore, we suspect this topic is mainly the concerns about chaos  after Brexit. </p>
+<p>The forth topic covers 18.5% of tokens. The most meaingful keywords in the topic distribution are: uncertainty, risk, economy, impact, market, concern, economic, growth, cost, trade, pound, price, business, rise, demand, chaos, worry, sterling. Therefore, we suspect this topic is mainly the concerns about chaos  after Brexit. </p></div>
 &nbsp;
-&nbsp;
+
 <p>
 <b>External resource</b>:</p>
 <p>For Ireland, the main discussion is on the <b>soft or the hard border</b> with the EU. The impact of Brexit on the Irish border and its adjacent polities involves changes in trade, customs, immigration checks, local economies, services, recognition of qualifications, medical cooperation, and other matters, now that it is the only external EU land border between the United Kingdom and the European Union. After the UK Parliament voted to leave the European Union, all parties said that they want to <b>avoid a hard border</b> in Ireland, due particularly to the border's historically sensitive nature. Border issues were <b>one of three areas of focused negotiation</b> in the Withdrawal Agreement. Following the United Kingdom's exit from the European Union on 31 January 2020, this border is also the frontier between the EU and an external country. The Northern Ireland Protocol of the Brexit withdrawal agreement commits the UK and the EU to maintaining an open border in Ireland, so that (in many respects) the de facto frontier is the Irish Sea border between the two islands. This requires the continued application of the Common Travel Area as well as free trade of goods (including electricity) between Ireland and Northern Ireland. The latter requires the UK to follow EU law in Northern Ireland with respect to these areas, with jurisdiction of the European Court of Justice in the interpretation of the law.</p>
@@ -159,8 +156,6 @@ title: The burst of Brexit bubble
 <p>For Scotland, after the Brexit referendum, the Scottish Government – led by the Scottish National Party (SNP) – planned another <b>independence referendum</b> because Scotland voted to remain in the EU while England and Wales voted to leave. It had suggested this before the Brexit referendum. The First Minister of Scotland, Nicola Sturgeon, requested a referendum be held before the UK's withdrawal, but the British Prime Minister rejected this timing.At the referendum in 2014,  <b>55% of voters had decided to remain in the UK</b>, but the referendum on Britain's withdrawal from the EU was held in 2016, with <b>62% of Scottish voters against it</b>. In 2017, if Northern Ireland remained associated with the EU – for example, by remaining in the Customs Union, some analysts argued Scotland would also insist on special treatment. However, in the event, the only part of the United Kingdom which received unique treatment was Northern Ireland.
   
 </p></div>
-<div align="justify"><p>
-
 
 
 &nbsp;
@@ -174,7 +169,7 @@ title: The burst of Brexit bubble
 <div align="justify"><p>
 {% include_relative _includes/quotation_number.html %}
 {% include_relative _includes/quotation_with_sentiment.html %}
-{% include_relative _includes/quotation_percentage.html %} 
+{% include_relative _includes/quotation_percentage.html %}</div>
 <div align="justify">
 <p>At the start of 2016, the number of overall quotations about brexit is very small. Additionally, the altitude of UK people to Brexit is mainly negative. However, there is <b>steep increase number of quotations</b> about Brexit from May to June. The reason is that the UK held a referendum on whether to leave the European Union on 23 June. 52% of voters voted to leave. This is the start point of Brexit. At that time, the percentage of the positive quotations has also increased to over 40%, but still less than negative quotations.</p>
   
@@ -218,7 +213,8 @@ By analyzing quotations related to the Brexit, we conclude that: <br>
 
   <p> The above findings make us think about that Brexit is an international event and most countries in the world will be affected to this event. However, after researching the quotations during this period, the truth may be surprising. Brexit may not reflect all the UK people expectation. The main motivatation is from the leaders of the government. If we go back to 2016 and hold a second referendum, the result may be that more than 50% people will choose to stay in EU. </p>
 </div>
-<div align="justify"><p>
+
+
 &nbsp;
 
 ---
