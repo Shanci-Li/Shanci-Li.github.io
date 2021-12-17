@@ -13,7 +13,7 @@ title: Brexit
 
 <!--CHAPTER: BACKGROUD-->
 <div align="center">
-<font size="+1"><h1><b>Background</b></h1></font>
+<font size="3"><h1><b>Background</b></h1></font>
 </div>
 
 <div align="justify">
