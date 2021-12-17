@@ -182,7 +182,7 @@ At the start of 2016, the number of overall quotations about brexit is very smal
 
 <p>On 31 January 2020, at 11 p.m. GMT the United Kingdom withdraws from the European Union at the deadline set for its departure by the Article 50 extension agreed between the UK and the EU in October 2019, and transitional arrangements begin for the period ending on 31 December 2020.
 </p></div>
-<div align="justify"><p>
+
   
  &nbsp;
 
